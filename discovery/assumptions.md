@@ -42,12 +42,48 @@ I suspect that people regularly make commitments to themselves or others but som
 
 ## 5. Questions to Investigate
 
-**Users & Problem**
+
+**Users & Problem** (Currently using myself as the subject)
+
 - Who actually experiences this problem?
+
+  Making and breaking commitments is a fairly universal experience. However, the problem I'm interested in addressing specifically affects **people who genuinely want to honour their commitments but struggle to align their actions with their intentions**.
+
+  This can involve personal commitments (e.g., practising LeetCode daily) or interpersonal commitments (e.g., promising to repay a friend $20). In the former, I'm primarily affected; in the latter, others may be directly or indirectly affected.
+
 - What types of commitments do they struggle with?
+
+  I'm initially focusing on relatively low-stakes, everyday commitments rather than major financial or legally binding obligations. Examples include gym goals, practising skills, friendly bets, repaying small debts, and promises between friends.
+
+  This scope is partly influenced by my vision of introducing social and gamified elements. However, what constitutes a "small" commitment is subjective, and this direction remains open to change.
+
 - How often does this happen?
+
+  In my personal experience, fairly often. I believe failing to follow through on commitments is common human behaviour, although I haven't yet gathered external evidence on its frequency.
+
+  More importantly, **the frequency of broken commitments doesn't necessarily reflect how many people consider it a problem worth solving**. Pact is intended for those who genuinely care about following through, rather than people who are indifferent to their commitments.
+
 - Why do they fail to follow through?
+
+  There are several possible reasons: poor planning, competing priorities, delayed gratification, forgetfulness, a lack of perceived consequences, or simply never intending to keep the commitment.
+
+  **Personal example:** I committed to completing one LeetCode problem daily to prepare for technical interviews and improve my skills. I started strong but struggled to balance it with work, school, the gym, and friends. Eventually, it fell lower on my priorities. While I wasn't devastated, I now regret the progress I could have made. I've since restarted and realized that the problems are often more manageable than I anticipated.
+
+  This raises an important distinction: **is the problem a lack of accountability, or are other commitments simply taking priority?** An accountability app won't necessarily solve every reason people fail to follow through.
+
 - How do they currently manage commitments?
+
+  From my personal experience, primarily through memory, physical or digital notes, and reminders. These methods can be effective, and I haven't established whether their shortcomings are significant enough to warrant a separate product.
+
+> **To Revisit — Future Research**
+>
+> - **Target users:** Who experiences this problem frequently and seriously enough to seek a solution?
+> - **Problem scope:** Are personal and interpersonal accountability fundamentally different problems? Should Pact address both or prioritize one for the MVP?
+> - **Frequency & severity:** How often do meaningful failures occur, and how much frustration or inconvenience do they cause?
+> - **Underlying causes:** Why do people fail to follow through, and which causes could social accountability realistically address?
+> - **Existing alternatives:** How do potential users currently manage commitments, what isn't working, and why would they switch?
+> - **Motivation:** Would people who genuinely want to follow through benefit from additional accountability, or would it simply introduce more pressure?
+
 
 **Market & Alternatives**
 - What tools or methods are people currently using?
